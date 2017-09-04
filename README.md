@@ -4,13 +4,13 @@ Provided as a [Simple Data Format Data Package](http://dataprotocols.readthedocs
 
 The goal of this data package is to  make it easier for participants to discover the data, to make it available in a mirror and in multiple formats.
 
-[PREVIEW](http://data.okfn.org/tools/view?url=https://raw.github.com/schoolofdata-ch/opengamesdb-swiss/master/datapackage.json)
+[![](http://assets.okfn.org/p/data/img/logo.png) PREVIEW](http://data.okfn.org/tools/view?url=https://raw.github.com/schoolofdata-ch/opengamesdb-swiss/master/datapackage.json)
 
 ## Data
 
 A comma-delimited string (CSV) file is provided in this data package, which was created on the basis of a [Google Document](https://docs.google.com/document/d/1Ihx4rLf7IaZPgYGqhwZpvD7QOym6YrJKgldXaXR4oho/edit) created and maintained by the [Swiss Game Developers Association](http://www.sgda.ch).
 
-Information on conversion steps we took is available in the Markdown (.md) file in the `process` subfolder.
+Information on conversion steps we took is available in the `process` subfolder: [released-swiss-video-games.md](process/released-swiss-video-games.md)
 
 ## License
 
